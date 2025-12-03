@@ -24,6 +24,7 @@ Riverpod
 
 To run this app locally:
 
+```bash
 git clone https://github.com/ronnyppp/meals_app.git
 cd meals_app
 flutter pub get
